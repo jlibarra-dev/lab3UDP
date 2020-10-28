@@ -1,0 +1,7 @@
+27/10/2020 18:38:49
+LOG:Archivo:b'0'
+LOG:Enviado de 0 KB a 30 KB
+LOG:Recibido b'0' de ('192.168.56.1', 10000)
+LOG:Timeout cumplido. No se recibio respuesta
+LOG:Codigo Hash del servidor 3762faed8884442632d769ab95872ee69ff0dacd2a2008c77aa1211e972149b0
+LOG:Socket cerrado

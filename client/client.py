@@ -3,6 +3,7 @@ import struct
 import sys
 import hashlib
 from datetime import datetime
+import time
 
 def getsha256file(archivo):
     try:
@@ -28,15 +29,17 @@ sock.bind(server_adress)
 group = socket.inet_aton(multicast_group)
 mreq = struct.pack('4sL', group, socket.INADDR_ANY)
 sock.setsockopt(socket.IPPROTO_IP, socket.IP_ADD_MEMBERSHIP, mreq)
+tiempo_total = 0
 archivo = input("Seleccion 0 para el archivo de 100 MB y seleccion 1 para el archivo de 250 MB: ")
 
 logFile = open(datetime.now().strftime("%d%m%Y%H%M%S")+".txt", "a")
+recibido_tiempo_incial = False
 while True:
     print("\nEsperando para recibir mensaje")
     logFile.write("\nLOG:Esperando para recibir mensaje")
     data, address = sock.recvfrom(1024)
-
-    print("Recibio", len(data), "bytes de", address)
+        
+    print("Recibido", len(data), "bytes de", address)
     print(data)
     logFile.write("\nLOG:Recibio " + str(len(data)) + " bytes de" + str(address))
     
@@ -57,14 +60,23 @@ while True:
     i = 0
     while True:
         data, address = sock.recvfrom(1024*30)
-        if(data == b'end'):
-            break
-        logFile.write("\nLOG:Recibio de "+str(i)+ " KB a " + str(i + 30)+ " KB")
-        newFile.write(data.decode("utf-8"))
-        print("Enviando ACK a", address, "#", i)
-        logFile.write("\nLOG:Enviando ACK a " + str(address)+" #"+str(i))
-        i+=1
-        sock.sendto(ack.encode("ascii"), address)
+        if recibido_tiempo_incial == False:
+            start = float(data.decode("utf-8"))
+            recibido_tiempo_incial = True
+        else:
+            if(data == b'end'):
+                end = time.time()
+                tiempo_total = end - start
+                print(tiempo_total)
+                logFile.write("\nLOG:Tiempo total tomado en el envío: " + str(tiempo_total) + " en ms")
+                break
+            
+            logFile.write("\nLOG:Recibio de "+str(i)+ " KB a " + str(i + 30)+ " KB")
+            newFile.write(data.decode("utf-8"))
+            print("Enviando ACK a", address, "#", i)
+            logFile.write("\nLOG:Enviando ACK a " + str(address)+" #"+str(i))
+            i+=1
+            sock.sendto(ack.encode("ascii"), address)
     newFile.close()  
     hashCode = getsha256file(nombreArchivo)
     print(hashCode)

@@ -1,0 +1,2232 @@
+
+LOG:Esperando para recibir mensaje
+LOG:Recibio 24 bytes de('192.168.56.1', 60920)
+LOG:Enviado archivo deseado a('192.168.56.1', 60920)
+LOG:Archivotext1.txt
+LOG:Recibio 9 bytes de('192.168.56.1', 60920)
+LOG:Recibio de 0 KB a 30 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #0
+LOG:Recibio de 1 KB a 31 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1
+LOG:Recibio de 2 KB a 32 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #2
+LOG:Recibio de 3 KB a 33 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #3
+LOG:Recibio de 4 KB a 34 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #4
+LOG:Recibio de 5 KB a 35 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #5
+LOG:Recibio de 6 KB a 36 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #6
+LOG:Recibio de 7 KB a 37 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #7
+LOG:Recibio de 8 KB a 38 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #8
+LOG:Recibio de 9 KB a 39 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #9
+LOG:Recibio de 10 KB a 40 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #10
+LOG:Recibio de 11 KB a 41 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #11
+LOG:Recibio de 12 KB a 42 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #12
+LOG:Recibio de 13 KB a 43 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #13
+LOG:Recibio de 14 KB a 44 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #14
+LOG:Recibio de 15 KB a 45 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #15
+LOG:Recibio de 16 KB a 46 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #16
+LOG:Recibio de 17 KB a 47 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #17
+LOG:Recibio de 18 KB a 48 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #18
+LOG:Recibio de 19 KB a 49 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #19
+LOG:Recibio de 20 KB a 50 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #20
+LOG:Recibio de 21 KB a 51 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #21
+LOG:Recibio de 22 KB a 52 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #22
+LOG:Recibio de 23 KB a 53 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #23
+LOG:Recibio de 24 KB a 54 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #24
+LOG:Recibio de 25 KB a 55 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #25
+LOG:Recibio de 26 KB a 56 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #26
+LOG:Recibio de 27 KB a 57 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #27
+LOG:Recibio de 28 KB a 58 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #28
+LOG:Recibio de 29 KB a 59 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #29
+LOG:Recibio de 30 KB a 60 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #30
+LOG:Recibio de 31 KB a 61 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #31
+LOG:Recibio de 32 KB a 62 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #32
+LOG:Recibio de 33 KB a 63 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #33
+LOG:Recibio de 34 KB a 64 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #34
+LOG:Recibio de 35 KB a 65 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #35
+LOG:Recibio de 36 KB a 66 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #36
+LOG:Recibio de 37 KB a 67 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #37
+LOG:Recibio de 38 KB a 68 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #38
+LOG:Recibio de 39 KB a 69 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #39
+LOG:Recibio de 40 KB a 70 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #40
+LOG:Recibio de 41 KB a 71 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #41
+LOG:Recibio de 42 KB a 72 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #42
+LOG:Recibio de 43 KB a 73 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #43
+LOG:Recibio de 44 KB a 74 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #44
+LOG:Recibio de 45 KB a 75 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #45
+LOG:Recibio de 46 KB a 76 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #46
+LOG:Recibio de 47 KB a 77 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #47
+LOG:Recibio de 48 KB a 78 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #48
+LOG:Recibio de 49 KB a 79 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #49
+LOG:Recibio de 50 KB a 80 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #50
+LOG:Recibio de 51 KB a 81 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #51
+LOG:Recibio de 52 KB a 82 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #52
+LOG:Recibio de 53 KB a 83 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #53
+LOG:Recibio de 54 KB a 84 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #54
+LOG:Recibio de 55 KB a 85 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #55
+LOG:Recibio de 56 KB a 86 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #56
+LOG:Recibio de 57 KB a 87 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #57
+LOG:Recibio de 58 KB a 88 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #58
+LOG:Recibio de 59 KB a 89 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #59
+LOG:Recibio de 60 KB a 90 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #60
+LOG:Recibio de 61 KB a 91 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #61
+LOG:Recibio de 62 KB a 92 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #62
+LOG:Recibio de 63 KB a 93 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #63
+LOG:Recibio de 64 KB a 94 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #64
+LOG:Recibio de 65 KB a 95 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #65
+LOG:Recibio de 66 KB a 96 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #66
+LOG:Recibio de 67 KB a 97 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #67
+LOG:Recibio de 68 KB a 98 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #68
+LOG:Recibio de 69 KB a 99 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #69
+LOG:Recibio de 70 KB a 100 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #70
+LOG:Recibio de 71 KB a 101 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #71
+LOG:Recibio de 72 KB a 102 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #72
+LOG:Recibio de 73 KB a 103 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #73
+LOG:Recibio de 74 KB a 104 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #74
+LOG:Recibio de 75 KB a 105 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #75
+LOG:Recibio de 76 KB a 106 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #76
+LOG:Recibio de 77 KB a 107 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #77
+LOG:Recibio de 78 KB a 108 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #78
+LOG:Recibio de 79 KB a 109 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #79
+LOG:Recibio de 80 KB a 110 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #80
+LOG:Recibio de 81 KB a 111 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #81
+LOG:Recibio de 82 KB a 112 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #82
+LOG:Recibio de 83 KB a 113 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #83
+LOG:Recibio de 84 KB a 114 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #84
+LOG:Recibio de 85 KB a 115 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #85
+LOG:Recibio de 86 KB a 116 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #86
+LOG:Recibio de 87 KB a 117 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #87
+LOG:Recibio de 88 KB a 118 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #88
+LOG:Recibio de 89 KB a 119 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #89
+LOG:Recibio de 90 KB a 120 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #90
+LOG:Recibio de 91 KB a 121 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #91
+LOG:Recibio de 92 KB a 122 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #92
+LOG:Recibio de 93 KB a 123 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #93
+LOG:Recibio de 94 KB a 124 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #94
+LOG:Recibio de 95 KB a 125 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #95
+LOG:Recibio de 96 KB a 126 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #96
+LOG:Recibio de 97 KB a 127 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #97
+LOG:Recibio de 98 KB a 128 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #98
+LOG:Recibio de 99 KB a 129 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #99
+LOG:Recibio de 100 KB a 130 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #100
+LOG:Recibio de 101 KB a 131 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #101
+LOG:Recibio de 102 KB a 132 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #102
+LOG:Recibio de 103 KB a 133 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #103
+LOG:Recibio de 104 KB a 134 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #104
+LOG:Recibio de 105 KB a 135 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #105
+LOG:Recibio de 106 KB a 136 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #106
+LOG:Recibio de 107 KB a 137 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #107
+LOG:Recibio de 108 KB a 138 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #108
+LOG:Recibio de 109 KB a 139 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #109
+LOG:Recibio de 110 KB a 140 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #110
+LOG:Recibio de 111 KB a 141 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #111
+LOG:Recibio de 112 KB a 142 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #112
+LOG:Recibio de 113 KB a 143 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #113
+LOG:Recibio de 114 KB a 144 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #114
+LOG:Recibio de 115 KB a 145 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #115
+LOG:Recibio de 116 KB a 146 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #116
+LOG:Recibio de 117 KB a 147 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #117
+LOG:Recibio de 118 KB a 148 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #118
+LOG:Recibio de 119 KB a 149 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #119
+LOG:Recibio de 120 KB a 150 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #120
+LOG:Recibio de 121 KB a 151 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #121
+LOG:Recibio de 122 KB a 152 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #122
+LOG:Recibio de 123 KB a 153 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #123
+LOG:Recibio de 124 KB a 154 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #124
+LOG:Recibio de 125 KB a 155 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #125
+LOG:Recibio de 126 KB a 156 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #126
+LOG:Recibio de 127 KB a 157 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #127
+LOG:Recibio de 128 KB a 158 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #128
+LOG:Recibio de 129 KB a 159 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #129
+LOG:Recibio de 130 KB a 160 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #130
+LOG:Recibio de 131 KB a 161 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #131
+LOG:Recibio de 132 KB a 162 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #132
+LOG:Recibio de 133 KB a 163 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #133
+LOG:Recibio de 134 KB a 164 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #134
+LOG:Recibio de 135 KB a 165 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #135
+LOG:Recibio de 136 KB a 166 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #136
+LOG:Recibio de 137 KB a 167 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #137
+LOG:Recibio de 138 KB a 168 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #138
+LOG:Recibio de 139 KB a 169 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #139
+LOG:Recibio de 140 KB a 170 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #140
+LOG:Recibio de 141 KB a 171 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #141
+LOG:Recibio de 142 KB a 172 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #142
+LOG:Recibio de 143 KB a 173 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #143
+LOG:Recibio de 144 KB a 174 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #144
+LOG:Recibio de 145 KB a 175 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #145
+LOG:Recibio de 146 KB a 176 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #146
+LOG:Recibio de 147 KB a 177 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #147
+LOG:Recibio de 148 KB a 178 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #148
+LOG:Recibio de 149 KB a 179 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #149
+LOG:Recibio de 150 KB a 180 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #150
+LOG:Recibio de 151 KB a 181 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #151
+LOG:Recibio de 152 KB a 182 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #152
+LOG:Recibio de 153 KB a 183 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #153
+LOG:Recibio de 154 KB a 184 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #154
+LOG:Recibio de 155 KB a 185 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #155
+LOG:Recibio de 156 KB a 186 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #156
+LOG:Recibio de 157 KB a 187 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #157
+LOG:Recibio de 158 KB a 188 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #158
+LOG:Recibio de 159 KB a 189 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #159
+LOG:Recibio de 160 KB a 190 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #160
+LOG:Recibio de 161 KB a 191 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #161
+LOG:Recibio de 162 KB a 192 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #162
+LOG:Recibio de 163 KB a 193 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #163
+LOG:Recibio de 164 KB a 194 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #164
+LOG:Recibio de 165 KB a 195 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #165
+LOG:Recibio de 166 KB a 196 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #166
+LOG:Recibio de 167 KB a 197 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #167
+LOG:Recibio de 168 KB a 198 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #168
+LOG:Recibio de 169 KB a 199 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #169
+LOG:Recibio de 170 KB a 200 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #170
+LOG:Recibio de 171 KB a 201 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #171
+LOG:Recibio de 172 KB a 202 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #172
+LOG:Recibio de 173 KB a 203 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #173
+LOG:Recibio de 174 KB a 204 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #174
+LOG:Recibio de 175 KB a 205 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #175
+LOG:Recibio de 176 KB a 206 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #176
+LOG:Recibio de 177 KB a 207 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #177
+LOG:Recibio de 178 KB a 208 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #178
+LOG:Recibio de 179 KB a 209 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #179
+LOG:Recibio de 180 KB a 210 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #180
+LOG:Recibio de 181 KB a 211 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #181
+LOG:Recibio de 182 KB a 212 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #182
+LOG:Recibio de 183 KB a 213 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #183
+LOG:Recibio de 184 KB a 214 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #184
+LOG:Recibio de 185 KB a 215 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #185
+LOG:Recibio de 186 KB a 216 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #186
+LOG:Recibio de 187 KB a 217 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #187
+LOG:Recibio de 188 KB a 218 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #188
+LOG:Recibio de 189 KB a 219 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #189
+LOG:Recibio de 190 KB a 220 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #190
+LOG:Recibio de 191 KB a 221 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #191
+LOG:Recibio de 192 KB a 222 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #192
+LOG:Recibio de 193 KB a 223 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #193
+LOG:Recibio de 194 KB a 224 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #194
+LOG:Recibio de 195 KB a 225 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #195
+LOG:Recibio de 196 KB a 226 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #196
+LOG:Recibio de 197 KB a 227 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #197
+LOG:Recibio de 198 KB a 228 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #198
+LOG:Recibio de 199 KB a 229 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #199
+LOG:Recibio de 200 KB a 230 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #200
+LOG:Recibio de 201 KB a 231 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #201
+LOG:Recibio de 202 KB a 232 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #202
+LOG:Recibio de 203 KB a 233 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #203
+LOG:Recibio de 204 KB a 234 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #204
+LOG:Recibio de 205 KB a 235 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #205
+LOG:Recibio de 206 KB a 236 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #206
+LOG:Recibio de 207 KB a 237 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #207
+LOG:Recibio de 208 KB a 238 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #208
+LOG:Recibio de 209 KB a 239 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #209
+LOG:Recibio de 210 KB a 240 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #210
+LOG:Recibio de 211 KB a 241 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #211
+LOG:Recibio de 212 KB a 242 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #212
+LOG:Recibio de 213 KB a 243 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #213
+LOG:Recibio de 214 KB a 244 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #214
+LOG:Recibio de 215 KB a 245 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #215
+LOG:Recibio de 216 KB a 246 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #216
+LOG:Recibio de 217 KB a 247 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #217
+LOG:Recibio de 218 KB a 248 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #218
+LOG:Recibio de 219 KB a 249 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #219
+LOG:Recibio de 220 KB a 250 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #220
+LOG:Recibio de 221 KB a 251 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #221
+LOG:Recibio de 222 KB a 252 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #222
+LOG:Recibio de 223 KB a 253 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #223
+LOG:Recibio de 224 KB a 254 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #224
+LOG:Recibio de 225 KB a 255 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #225
+LOG:Recibio de 226 KB a 256 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #226
+LOG:Recibio de 227 KB a 257 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #227
+LOG:Recibio de 228 KB a 258 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #228
+LOG:Recibio de 229 KB a 259 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #229
+LOG:Recibio de 230 KB a 260 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #230
+LOG:Recibio de 231 KB a 261 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #231
+LOG:Recibio de 232 KB a 262 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #232
+LOG:Recibio de 233 KB a 263 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #233
+LOG:Recibio de 234 KB a 264 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #234
+LOG:Recibio de 235 KB a 265 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #235
+LOG:Recibio de 236 KB a 266 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #236
+LOG:Recibio de 237 KB a 267 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #237
+LOG:Recibio de 238 KB a 268 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #238
+LOG:Recibio de 239 KB a 269 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #239
+LOG:Recibio de 240 KB a 270 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #240
+LOG:Recibio de 241 KB a 271 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #241
+LOG:Recibio de 242 KB a 272 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #242
+LOG:Recibio de 243 KB a 273 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #243
+LOG:Recibio de 244 KB a 274 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #244
+LOG:Recibio de 245 KB a 275 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #245
+LOG:Recibio de 246 KB a 276 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #246
+LOG:Recibio de 247 KB a 277 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #247
+LOG:Recibio de 248 KB a 278 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #248
+LOG:Recibio de 249 KB a 279 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #249
+LOG:Recibio de 250 KB a 280 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #250
+LOG:Recibio de 251 KB a 281 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #251
+LOG:Recibio de 252 KB a 282 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #252
+LOG:Recibio de 253 KB a 283 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #253
+LOG:Recibio de 254 KB a 284 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #254
+LOG:Recibio de 255 KB a 285 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #255
+LOG:Recibio de 256 KB a 286 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #256
+LOG:Recibio de 257 KB a 287 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #257
+LOG:Recibio de 258 KB a 288 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #258
+LOG:Recibio de 259 KB a 289 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #259
+LOG:Recibio de 260 KB a 290 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #260
+LOG:Recibio de 261 KB a 291 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #261
+LOG:Recibio de 262 KB a 292 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #262
+LOG:Recibio de 263 KB a 293 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #263
+LOG:Recibio de 264 KB a 294 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #264
+LOG:Recibio de 265 KB a 295 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #265
+LOG:Recibio de 266 KB a 296 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #266
+LOG:Recibio de 267 KB a 297 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #267
+LOG:Recibio de 268 KB a 298 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #268
+LOG:Recibio de 269 KB a 299 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #269
+LOG:Recibio de 270 KB a 300 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #270
+LOG:Recibio de 271 KB a 301 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #271
+LOG:Recibio de 272 KB a 302 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #272
+LOG:Recibio de 273 KB a 303 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #273
+LOG:Recibio de 274 KB a 304 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #274
+LOG:Recibio de 275 KB a 305 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #275
+LOG:Recibio de 276 KB a 306 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #276
+LOG:Recibio de 277 KB a 307 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #277
+LOG:Recibio de 278 KB a 308 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #278
+LOG:Recibio de 279 KB a 309 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #279
+LOG:Recibio de 280 KB a 310 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #280
+LOG:Recibio de 281 KB a 311 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #281
+LOG:Recibio de 282 KB a 312 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #282
+LOG:Recibio de 283 KB a 313 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #283
+LOG:Recibio de 284 KB a 314 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #284
+LOG:Recibio de 285 KB a 315 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #285
+LOG:Recibio de 286 KB a 316 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #286
+LOG:Recibio de 287 KB a 317 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #287
+LOG:Recibio de 288 KB a 318 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #288
+LOG:Recibio de 289 KB a 319 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #289
+LOG:Recibio de 290 KB a 320 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #290
+LOG:Recibio de 291 KB a 321 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #291
+LOG:Recibio de 292 KB a 322 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #292
+LOG:Recibio de 293 KB a 323 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #293
+LOG:Recibio de 294 KB a 324 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #294
+LOG:Recibio de 295 KB a 325 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #295
+LOG:Recibio de 296 KB a 326 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #296
+LOG:Recibio de 297 KB a 327 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #297
+LOG:Recibio de 298 KB a 328 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #298
+LOG:Recibio de 299 KB a 329 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #299
+LOG:Recibio de 300 KB a 330 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #300
+LOG:Recibio de 301 KB a 331 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #301
+LOG:Recibio de 302 KB a 332 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #302
+LOG:Recibio de 303 KB a 333 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #303
+LOG:Recibio de 304 KB a 334 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #304
+LOG:Recibio de 305 KB a 335 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #305
+LOG:Recibio de 306 KB a 336 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #306
+LOG:Recibio de 307 KB a 337 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #307
+LOG:Recibio de 308 KB a 338 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #308
+LOG:Recibio de 309 KB a 339 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #309
+LOG:Recibio de 310 KB a 340 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #310
+LOG:Recibio de 311 KB a 341 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #311
+LOG:Recibio de 312 KB a 342 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #312
+LOG:Recibio de 313 KB a 343 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #313
+LOG:Recibio de 314 KB a 344 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #314
+LOG:Recibio de 315 KB a 345 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #315
+LOG:Recibio de 316 KB a 346 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #316
+LOG:Recibio de 317 KB a 347 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #317
+LOG:Recibio de 318 KB a 348 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #318
+LOG:Recibio de 319 KB a 349 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #319
+LOG:Recibio de 320 KB a 350 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #320
+LOG:Recibio de 321 KB a 351 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #321
+LOG:Recibio de 322 KB a 352 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #322
+LOG:Recibio de 323 KB a 353 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #323
+LOG:Recibio de 324 KB a 354 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #324
+LOG:Recibio de 325 KB a 355 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #325
+LOG:Recibio de 326 KB a 356 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #326
+LOG:Recibio de 327 KB a 357 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #327
+LOG:Recibio de 328 KB a 358 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #328
+LOG:Recibio de 329 KB a 359 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #329
+LOG:Recibio de 330 KB a 360 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #330
+LOG:Recibio de 331 KB a 361 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #331
+LOG:Recibio de 332 KB a 362 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #332
+LOG:Recibio de 333 KB a 363 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #333
+LOG:Recibio de 334 KB a 364 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #334
+LOG:Recibio de 335 KB a 365 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #335
+LOG:Recibio de 336 KB a 366 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #336
+LOG:Recibio de 337 KB a 367 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #337
+LOG:Recibio de 338 KB a 368 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #338
+LOG:Recibio de 339 KB a 369 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #339
+LOG:Recibio de 340 KB a 370 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #340
+LOG:Recibio de 341 KB a 371 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #341
+LOG:Recibio de 342 KB a 372 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #342
+LOG:Recibio de 343 KB a 373 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #343
+LOG:Recibio de 344 KB a 374 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #344
+LOG:Recibio de 345 KB a 375 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #345
+LOG:Recibio de 346 KB a 376 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #346
+LOG:Recibio de 347 KB a 377 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #347
+LOG:Recibio de 348 KB a 378 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #348
+LOG:Recibio de 349 KB a 379 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #349
+LOG:Recibio de 350 KB a 380 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #350
+LOG:Recibio de 351 KB a 381 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #351
+LOG:Recibio de 352 KB a 382 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #352
+LOG:Recibio de 353 KB a 383 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #353
+LOG:Recibio de 354 KB a 384 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #354
+LOG:Recibio de 355 KB a 385 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #355
+LOG:Recibio de 356 KB a 386 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #356
+LOG:Recibio de 357 KB a 387 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #357
+LOG:Recibio de 358 KB a 388 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #358
+LOG:Recibio de 359 KB a 389 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #359
+LOG:Recibio de 360 KB a 390 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #360
+LOG:Recibio de 361 KB a 391 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #361
+LOG:Recibio de 362 KB a 392 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #362
+LOG:Recibio de 363 KB a 393 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #363
+LOG:Recibio de 364 KB a 394 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #364
+LOG:Recibio de 365 KB a 395 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #365
+LOG:Recibio de 366 KB a 396 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #366
+LOG:Recibio de 367 KB a 397 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #367
+LOG:Recibio de 368 KB a 398 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #368
+LOG:Recibio de 369 KB a 399 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #369
+LOG:Recibio de 370 KB a 400 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #370
+LOG:Recibio de 371 KB a 401 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #371
+LOG:Recibio de 372 KB a 402 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #372
+LOG:Recibio de 373 KB a 403 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #373
+LOG:Recibio de 374 KB a 404 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #374
+LOG:Recibio de 375 KB a 405 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #375
+LOG:Recibio de 376 KB a 406 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #376
+LOG:Recibio de 377 KB a 407 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #377
+LOG:Recibio de 378 KB a 408 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #378
+LOG:Recibio de 379 KB a 409 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #379
+LOG:Recibio de 380 KB a 410 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #380
+LOG:Recibio de 381 KB a 411 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #381
+LOG:Recibio de 382 KB a 412 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #382
+LOG:Recibio de 383 KB a 413 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #383
+LOG:Recibio de 384 KB a 414 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #384
+LOG:Recibio de 385 KB a 415 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #385
+LOG:Recibio de 386 KB a 416 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #386
+LOG:Recibio de 387 KB a 417 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #387
+LOG:Recibio de 388 KB a 418 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #388
+LOG:Recibio de 389 KB a 419 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #389
+LOG:Recibio de 390 KB a 420 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #390
+LOG:Recibio de 391 KB a 421 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #391
+LOG:Recibio de 392 KB a 422 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #392
+LOG:Recibio de 393 KB a 423 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #393
+LOG:Recibio de 394 KB a 424 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #394
+LOG:Recibio de 395 KB a 425 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #395
+LOG:Recibio de 396 KB a 426 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #396
+LOG:Recibio de 397 KB a 427 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #397
+LOG:Recibio de 398 KB a 428 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #398
+LOG:Recibio de 399 KB a 429 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #399
+LOG:Recibio de 400 KB a 430 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #400
+LOG:Recibio de 401 KB a 431 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #401
+LOG:Recibio de 402 KB a 432 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #402
+LOG:Recibio de 403 KB a 433 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #403
+LOG:Recibio de 404 KB a 434 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #404
+LOG:Recibio de 405 KB a 435 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #405
+LOG:Recibio de 406 KB a 436 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #406
+LOG:Recibio de 407 KB a 437 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #407
+LOG:Recibio de 408 KB a 438 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #408
+LOG:Recibio de 409 KB a 439 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #409
+LOG:Recibio de 410 KB a 440 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #410
+LOG:Recibio de 411 KB a 441 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #411
+LOG:Recibio de 412 KB a 442 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #412
+LOG:Recibio de 413 KB a 443 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #413
+LOG:Recibio de 414 KB a 444 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #414
+LOG:Recibio de 415 KB a 445 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #415
+LOG:Recibio de 416 KB a 446 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #416
+LOG:Recibio de 417 KB a 447 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #417
+LOG:Recibio de 418 KB a 448 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #418
+LOG:Recibio de 419 KB a 449 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #419
+LOG:Recibio de 420 KB a 450 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #420
+LOG:Recibio de 421 KB a 451 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #421
+LOG:Recibio de 422 KB a 452 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #422
+LOG:Recibio de 423 KB a 453 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #423
+LOG:Recibio de 424 KB a 454 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #424
+LOG:Recibio de 425 KB a 455 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #425
+LOG:Recibio de 426 KB a 456 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #426
+LOG:Recibio de 427 KB a 457 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #427
+LOG:Recibio de 428 KB a 458 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #428
+LOG:Recibio de 429 KB a 459 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #429
+LOG:Recibio de 430 KB a 460 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #430
+LOG:Recibio de 431 KB a 461 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #431
+LOG:Recibio de 432 KB a 462 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #432
+LOG:Recibio de 433 KB a 463 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #433
+LOG:Recibio de 434 KB a 464 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #434
+LOG:Recibio de 435 KB a 465 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #435
+LOG:Recibio de 436 KB a 466 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #436
+LOG:Recibio de 437 KB a 467 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #437
+LOG:Recibio de 438 KB a 468 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #438
+LOG:Recibio de 439 KB a 469 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #439
+LOG:Recibio de 440 KB a 470 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #440
+LOG:Recibio de 441 KB a 471 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #441
+LOG:Recibio de 442 KB a 472 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #442
+LOG:Recibio de 443 KB a 473 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #443
+LOG:Recibio de 444 KB a 474 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #444
+LOG:Recibio de 445 KB a 475 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #445
+LOG:Recibio de 446 KB a 476 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #446
+LOG:Recibio de 447 KB a 477 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #447
+LOG:Recibio de 448 KB a 478 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #448
+LOG:Recibio de 449 KB a 479 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #449
+LOG:Recibio de 450 KB a 480 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #450
+LOG:Recibio de 451 KB a 481 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #451
+LOG:Recibio de 452 KB a 482 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #452
+LOG:Recibio de 453 KB a 483 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #453
+LOG:Recibio de 454 KB a 484 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #454
+LOG:Recibio de 455 KB a 485 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #455
+LOG:Recibio de 456 KB a 486 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #456
+LOG:Recibio de 457 KB a 487 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #457
+LOG:Recibio de 458 KB a 488 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #458
+LOG:Recibio de 459 KB a 489 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #459
+LOG:Recibio de 460 KB a 490 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #460
+LOG:Recibio de 461 KB a 491 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #461
+LOG:Recibio de 462 KB a 492 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #462
+LOG:Recibio de 463 KB a 493 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #463
+LOG:Recibio de 464 KB a 494 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #464
+LOG:Recibio de 465 KB a 495 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #465
+LOG:Recibio de 466 KB a 496 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #466
+LOG:Recibio de 467 KB a 497 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #467
+LOG:Recibio de 468 KB a 498 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #468
+LOG:Recibio de 469 KB a 499 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #469
+LOG:Recibio de 470 KB a 500 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #470
+LOG:Recibio de 471 KB a 501 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #471
+LOG:Recibio de 472 KB a 502 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #472
+LOG:Recibio de 473 KB a 503 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #473
+LOG:Recibio de 474 KB a 504 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #474
+LOG:Recibio de 475 KB a 505 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #475
+LOG:Recibio de 476 KB a 506 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #476
+LOG:Recibio de 477 KB a 507 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #477
+LOG:Recibio de 478 KB a 508 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #478
+LOG:Recibio de 479 KB a 509 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #479
+LOG:Recibio de 480 KB a 510 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #480
+LOG:Recibio de 481 KB a 511 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #481
+LOG:Recibio de 482 KB a 512 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #482
+LOG:Recibio de 483 KB a 513 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #483
+LOG:Recibio de 484 KB a 514 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #484
+LOG:Recibio de 485 KB a 515 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #485
+LOG:Recibio de 486 KB a 516 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #486
+LOG:Recibio de 487 KB a 517 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #487
+LOG:Recibio de 488 KB a 518 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #488
+LOG:Recibio de 489 KB a 519 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #489
+LOG:Recibio de 490 KB a 520 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #490
+LOG:Recibio de 491 KB a 521 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #491
+LOG:Recibio de 492 KB a 522 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #492
+LOG:Recibio de 493 KB a 523 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #493
+LOG:Recibio de 494 KB a 524 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #494
+LOG:Recibio de 495 KB a 525 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #495
+LOG:Recibio de 496 KB a 526 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #496
+LOG:Recibio de 497 KB a 527 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #497
+LOG:Recibio de 498 KB a 528 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #498
+LOG:Recibio de 499 KB a 529 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #499
+LOG:Recibio de 500 KB a 530 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #500
+LOG:Recibio de 501 KB a 531 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #501
+LOG:Recibio de 502 KB a 532 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #502
+LOG:Recibio de 503 KB a 533 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #503
+LOG:Recibio de 504 KB a 534 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #504
+LOG:Recibio de 505 KB a 535 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #505
+LOG:Recibio de 506 KB a 536 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #506
+LOG:Recibio de 507 KB a 537 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #507
+LOG:Recibio de 508 KB a 538 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #508
+LOG:Recibio de 509 KB a 539 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #509
+LOG:Recibio de 510 KB a 540 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #510
+LOG:Recibio de 511 KB a 541 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #511
+LOG:Recibio de 512 KB a 542 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #512
+LOG:Recibio de 513 KB a 543 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #513
+LOG:Recibio de 514 KB a 544 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #514
+LOG:Recibio de 515 KB a 545 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #515
+LOG:Recibio de 516 KB a 546 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #516
+LOG:Recibio de 517 KB a 547 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #517
+LOG:Recibio de 518 KB a 548 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #518
+LOG:Recibio de 519 KB a 549 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #519
+LOG:Recibio de 520 KB a 550 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #520
+LOG:Recibio de 521 KB a 551 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #521
+LOG:Recibio de 522 KB a 552 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #522
+LOG:Recibio de 523 KB a 553 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #523
+LOG:Recibio de 524 KB a 554 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #524
+LOG:Recibio de 525 KB a 555 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #525
+LOG:Recibio de 526 KB a 556 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #526
+LOG:Recibio de 527 KB a 557 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #527
+LOG:Recibio de 528 KB a 558 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #528
+LOG:Recibio de 529 KB a 559 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #529
+LOG:Recibio de 530 KB a 560 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #530
+LOG:Recibio de 531 KB a 561 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #531
+LOG:Recibio de 532 KB a 562 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #532
+LOG:Recibio de 533 KB a 563 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #533
+LOG:Recibio de 534 KB a 564 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #534
+LOG:Recibio de 535 KB a 565 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #535
+LOG:Recibio de 536 KB a 566 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #536
+LOG:Recibio de 537 KB a 567 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #537
+LOG:Recibio de 538 KB a 568 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #538
+LOG:Recibio de 539 KB a 569 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #539
+LOG:Recibio de 540 KB a 570 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #540
+LOG:Recibio de 541 KB a 571 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #541
+LOG:Recibio de 542 KB a 572 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #542
+LOG:Recibio de 543 KB a 573 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #543
+LOG:Recibio de 544 KB a 574 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #544
+LOG:Recibio de 545 KB a 575 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #545
+LOG:Recibio de 546 KB a 576 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #546
+LOG:Recibio de 547 KB a 577 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #547
+LOG:Recibio de 548 KB a 578 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #548
+LOG:Recibio de 549 KB a 579 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #549
+LOG:Recibio de 550 KB a 580 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #550
+LOG:Recibio de 551 KB a 581 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #551
+LOG:Recibio de 552 KB a 582 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #552
+LOG:Recibio de 553 KB a 583 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #553
+LOG:Recibio de 554 KB a 584 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #554
+LOG:Recibio de 555 KB a 585 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #555
+LOG:Recibio de 556 KB a 586 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #556
+LOG:Recibio de 557 KB a 587 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #557
+LOG:Recibio de 558 KB a 588 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #558
+LOG:Recibio de 559 KB a 589 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #559
+LOG:Recibio de 560 KB a 590 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #560
+LOG:Recibio de 561 KB a 591 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #561
+LOG:Recibio de 562 KB a 592 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #562
+LOG:Recibio de 563 KB a 593 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #563
+LOG:Recibio de 564 KB a 594 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #564
+LOG:Recibio de 565 KB a 595 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #565
+LOG:Recibio de 566 KB a 596 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #566
+LOG:Recibio de 567 KB a 597 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #567
+LOG:Recibio de 568 KB a 598 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #568
+LOG:Recibio de 569 KB a 599 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #569
+LOG:Recibio de 570 KB a 600 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #570
+LOG:Recibio de 571 KB a 601 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #571
+LOG:Recibio de 572 KB a 602 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #572
+LOG:Recibio de 573 KB a 603 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #573
+LOG:Recibio de 574 KB a 604 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #574
+LOG:Recibio de 575 KB a 605 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #575
+LOG:Recibio de 576 KB a 606 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #576
+LOG:Recibio de 577 KB a 607 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #577
+LOG:Recibio de 578 KB a 608 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #578
+LOG:Recibio de 579 KB a 609 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #579
+LOG:Recibio de 580 KB a 610 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #580
+LOG:Recibio de 581 KB a 611 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #581
+LOG:Recibio de 582 KB a 612 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #582
+LOG:Recibio de 583 KB a 613 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #583
+LOG:Recibio de 584 KB a 614 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #584
+LOG:Recibio de 585 KB a 615 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #585
+LOG:Recibio de 586 KB a 616 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #586
+LOG:Recibio de 587 KB a 617 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #587
+LOG:Recibio de 588 KB a 618 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #588
+LOG:Recibio de 589 KB a 619 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #589
+LOG:Recibio de 590 KB a 620 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #590
+LOG:Recibio de 591 KB a 621 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #591
+LOG:Recibio de 592 KB a 622 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #592
+LOG:Recibio de 593 KB a 623 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #593
+LOG:Recibio de 594 KB a 624 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #594
+LOG:Recibio de 595 KB a 625 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #595
+LOG:Recibio de 596 KB a 626 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #596
+LOG:Recibio de 597 KB a 627 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #597
+LOG:Recibio de 598 KB a 628 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #598
+LOG:Recibio de 599 KB a 629 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #599
+LOG:Recibio de 600 KB a 630 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #600
+LOG:Recibio de 601 KB a 631 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #601
+LOG:Recibio de 602 KB a 632 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #602
+LOG:Recibio de 603 KB a 633 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #603
+LOG:Recibio de 604 KB a 634 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #604
+LOG:Recibio de 605 KB a 635 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #605
+LOG:Recibio de 606 KB a 636 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #606
+LOG:Recibio de 607 KB a 637 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #607
+LOG:Recibio de 608 KB a 638 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #608
+LOG:Recibio de 609 KB a 639 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #609
+LOG:Recibio de 610 KB a 640 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #610
+LOG:Recibio de 611 KB a 641 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #611
+LOG:Recibio de 612 KB a 642 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #612
+LOG:Recibio de 613 KB a 643 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #613
+LOG:Recibio de 614 KB a 644 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #614
+LOG:Recibio de 615 KB a 645 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #615
+LOG:Recibio de 616 KB a 646 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #616
+LOG:Recibio de 617 KB a 647 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #617
+LOG:Recibio de 618 KB a 648 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #618
+LOG:Recibio de 619 KB a 649 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #619
+LOG:Recibio de 620 KB a 650 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #620
+LOG:Recibio de 621 KB a 651 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #621
+LOG:Recibio de 622 KB a 652 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #622
+LOG:Recibio de 623 KB a 653 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #623
+LOG:Recibio de 624 KB a 654 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #624
+LOG:Recibio de 625 KB a 655 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #625
+LOG:Recibio de 626 KB a 656 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #626
+LOG:Recibio de 627 KB a 657 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #627
+LOG:Recibio de 628 KB a 658 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #628
+LOG:Recibio de 629 KB a 659 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #629
+LOG:Recibio de 630 KB a 660 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #630
+LOG:Recibio de 631 KB a 661 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #631
+LOG:Recibio de 632 KB a 662 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #632
+LOG:Recibio de 633 KB a 663 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #633
+LOG:Recibio de 634 KB a 664 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #634
+LOG:Recibio de 635 KB a 665 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #635
+LOG:Recibio de 636 KB a 666 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #636
+LOG:Recibio de 637 KB a 667 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #637
+LOG:Recibio de 638 KB a 668 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #638
+LOG:Recibio de 639 KB a 669 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #639
+LOG:Recibio de 640 KB a 670 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #640
+LOG:Recibio de 641 KB a 671 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #641
+LOG:Recibio de 642 KB a 672 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #642
+LOG:Recibio de 643 KB a 673 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #643
+LOG:Recibio de 644 KB a 674 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #644
+LOG:Recibio de 645 KB a 675 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #645
+LOG:Recibio de 646 KB a 676 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #646
+LOG:Recibio de 647 KB a 677 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #647
+LOG:Recibio de 648 KB a 678 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #648
+LOG:Recibio de 649 KB a 679 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #649
+LOG:Recibio de 650 KB a 680 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #650
+LOG:Recibio de 651 KB a 681 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #651
+LOG:Recibio de 652 KB a 682 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #652
+LOG:Recibio de 653 KB a 683 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #653
+LOG:Recibio de 654 KB a 684 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #654
+LOG:Recibio de 655 KB a 685 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #655
+LOG:Recibio de 656 KB a 686 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #656
+LOG:Recibio de 657 KB a 687 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #657
+LOG:Recibio de 658 KB a 688 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #658
+LOG:Recibio de 659 KB a 689 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #659
+LOG:Recibio de 660 KB a 690 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #660
+LOG:Recibio de 661 KB a 691 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #661
+LOG:Recibio de 662 KB a 692 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #662
+LOG:Recibio de 663 KB a 693 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #663
+LOG:Recibio de 664 KB a 694 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #664
+LOG:Recibio de 665 KB a 695 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #665
+LOG:Recibio de 666 KB a 696 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #666
+LOG:Recibio de 667 KB a 697 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #667
+LOG:Recibio de 668 KB a 698 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #668
+LOG:Recibio de 669 KB a 699 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #669
+LOG:Recibio de 670 KB a 700 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #670
+LOG:Recibio de 671 KB a 701 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #671
+LOG:Recibio de 672 KB a 702 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #672
+LOG:Recibio de 673 KB a 703 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #673
+LOG:Recibio de 674 KB a 704 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #674
+LOG:Recibio de 675 KB a 705 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #675
+LOG:Recibio de 676 KB a 706 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #676
+LOG:Recibio de 677 KB a 707 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #677
+LOG:Recibio de 678 KB a 708 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #678
+LOG:Recibio de 679 KB a 709 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #679
+LOG:Recibio de 680 KB a 710 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #680
+LOG:Recibio de 681 KB a 711 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #681
+LOG:Recibio de 682 KB a 712 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #682
+LOG:Recibio de 683 KB a 713 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #683
+LOG:Recibio de 684 KB a 714 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #684
+LOG:Recibio de 685 KB a 715 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #685
+LOG:Recibio de 686 KB a 716 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #686
+LOG:Recibio de 687 KB a 717 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #687
+LOG:Recibio de 688 KB a 718 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #688
+LOG:Recibio de 689 KB a 719 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #689
+LOG:Recibio de 690 KB a 720 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #690
+LOG:Recibio de 691 KB a 721 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #691
+LOG:Recibio de 692 KB a 722 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #692
+LOG:Recibio de 693 KB a 723 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #693
+LOG:Recibio de 694 KB a 724 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #694
+LOG:Recibio de 695 KB a 725 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #695
+LOG:Recibio de 696 KB a 726 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #696
+LOG:Recibio de 697 KB a 727 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #697
+LOG:Recibio de 698 KB a 728 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #698
+LOG:Recibio de 699 KB a 729 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #699
+LOG:Recibio de 700 KB a 730 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #700
+LOG:Recibio de 701 KB a 731 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #701
+LOG:Recibio de 702 KB a 732 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #702
+LOG:Recibio de 703 KB a 733 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #703
+LOG:Recibio de 704 KB a 734 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #704
+LOG:Recibio de 705 KB a 735 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #705
+LOG:Recibio de 706 KB a 736 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #706
+LOG:Recibio de 707 KB a 737 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #707
+LOG:Recibio de 708 KB a 738 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #708
+LOG:Recibio de 709 KB a 739 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #709
+LOG:Recibio de 710 KB a 740 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #710
+LOG:Recibio de 711 KB a 741 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #711
+LOG:Recibio de 712 KB a 742 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #712
+LOG:Recibio de 713 KB a 743 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #713
+LOG:Recibio de 714 KB a 744 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #714
+LOG:Recibio de 715 KB a 745 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #715
+LOG:Recibio de 716 KB a 746 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #716
+LOG:Recibio de 717 KB a 747 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #717
+LOG:Recibio de 718 KB a 748 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #718
+LOG:Recibio de 719 KB a 749 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #719
+LOG:Recibio de 720 KB a 750 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #720
+LOG:Recibio de 721 KB a 751 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #721
+LOG:Recibio de 722 KB a 752 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #722
+LOG:Recibio de 723 KB a 753 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #723
+LOG:Recibio de 724 KB a 754 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #724
+LOG:Recibio de 725 KB a 755 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #725
+LOG:Recibio de 726 KB a 756 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #726
+LOG:Recibio de 727 KB a 757 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #727
+LOG:Recibio de 728 KB a 758 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #728
+LOG:Recibio de 729 KB a 759 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #729
+LOG:Recibio de 730 KB a 760 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #730
+LOG:Recibio de 731 KB a 761 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #731
+LOG:Recibio de 732 KB a 762 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #732
+LOG:Recibio de 733 KB a 763 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #733
+LOG:Recibio de 734 KB a 764 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #734
+LOG:Recibio de 735 KB a 765 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #735
+LOG:Recibio de 736 KB a 766 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #736
+LOG:Recibio de 737 KB a 767 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #737
+LOG:Recibio de 738 KB a 768 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #738
+LOG:Recibio de 739 KB a 769 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #739
+LOG:Recibio de 740 KB a 770 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #740
+LOG:Recibio de 741 KB a 771 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #741
+LOG:Recibio de 742 KB a 772 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #742
+LOG:Recibio de 743 KB a 773 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #743
+LOG:Recibio de 744 KB a 774 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #744
+LOG:Recibio de 745 KB a 775 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #745
+LOG:Recibio de 746 KB a 776 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #746
+LOG:Recibio de 747 KB a 777 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #747
+LOG:Recibio de 748 KB a 778 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #748
+LOG:Recibio de 749 KB a 779 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #749
+LOG:Recibio de 750 KB a 780 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #750
+LOG:Recibio de 751 KB a 781 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #751
+LOG:Recibio de 752 KB a 782 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #752
+LOG:Recibio de 753 KB a 783 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #753
+LOG:Recibio de 754 KB a 784 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #754
+LOG:Recibio de 755 KB a 785 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #755
+LOG:Recibio de 756 KB a 786 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #756
+LOG:Recibio de 757 KB a 787 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #757
+LOG:Recibio de 758 KB a 788 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #758
+LOG:Recibio de 759 KB a 789 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #759
+LOG:Recibio de 760 KB a 790 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #760
+LOG:Recibio de 761 KB a 791 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #761
+LOG:Recibio de 762 KB a 792 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #762
+LOG:Recibio de 763 KB a 793 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #763
+LOG:Recibio de 764 KB a 794 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #764
+LOG:Recibio de 765 KB a 795 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #765
+LOG:Recibio de 766 KB a 796 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #766
+LOG:Recibio de 767 KB a 797 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #767
+LOG:Recibio de 768 KB a 798 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #768
+LOG:Recibio de 769 KB a 799 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #769
+LOG:Recibio de 770 KB a 800 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #770
+LOG:Recibio de 771 KB a 801 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #771
+LOG:Recibio de 772 KB a 802 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #772
+LOG:Recibio de 773 KB a 803 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #773
+LOG:Recibio de 774 KB a 804 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #774
+LOG:Recibio de 775 KB a 805 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #775
+LOG:Recibio de 776 KB a 806 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #776
+LOG:Recibio de 777 KB a 807 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #777
+LOG:Recibio de 778 KB a 808 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #778
+LOG:Recibio de 779 KB a 809 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #779
+LOG:Recibio de 780 KB a 810 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #780
+LOG:Recibio de 781 KB a 811 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #781
+LOG:Recibio de 782 KB a 812 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #782
+LOG:Recibio de 783 KB a 813 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #783
+LOG:Recibio de 784 KB a 814 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #784
+LOG:Recibio de 785 KB a 815 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #785
+LOG:Recibio de 786 KB a 816 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #786
+LOG:Recibio de 787 KB a 817 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #787
+LOG:Recibio de 788 KB a 818 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #788
+LOG:Recibio de 789 KB a 819 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #789
+LOG:Recibio de 790 KB a 820 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #790
+LOG:Recibio de 791 KB a 821 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #791
+LOG:Recibio de 792 KB a 822 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #792
+LOG:Recibio de 793 KB a 823 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #793
+LOG:Recibio de 794 KB a 824 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #794
+LOG:Recibio de 795 KB a 825 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #795
+LOG:Recibio de 796 KB a 826 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #796
+LOG:Recibio de 797 KB a 827 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #797
+LOG:Recibio de 798 KB a 828 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #798
+LOG:Recibio de 799 KB a 829 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #799
+LOG:Recibio de 800 KB a 830 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #800
+LOG:Recibio de 801 KB a 831 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #801
+LOG:Recibio de 802 KB a 832 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #802
+LOG:Recibio de 803 KB a 833 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #803
+LOG:Recibio de 804 KB a 834 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #804
+LOG:Recibio de 805 KB a 835 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #805
+LOG:Recibio de 806 KB a 836 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #806
+LOG:Recibio de 807 KB a 837 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #807
+LOG:Recibio de 808 KB a 838 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #808
+LOG:Recibio de 809 KB a 839 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #809
+LOG:Recibio de 810 KB a 840 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #810
+LOG:Recibio de 811 KB a 841 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #811
+LOG:Recibio de 812 KB a 842 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #812
+LOG:Recibio de 813 KB a 843 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #813
+LOG:Recibio de 814 KB a 844 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #814
+LOG:Recibio de 815 KB a 845 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #815
+LOG:Recibio de 816 KB a 846 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #816
+LOG:Recibio de 817 KB a 847 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #817
+LOG:Recibio de 818 KB a 848 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #818
+LOG:Recibio de 819 KB a 849 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #819
+LOG:Recibio de 820 KB a 850 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #820
+LOG:Recibio de 821 KB a 851 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #821
+LOG:Recibio de 822 KB a 852 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #822
+LOG:Recibio de 823 KB a 853 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #823
+LOG:Recibio de 824 KB a 854 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #824
+LOG:Recibio de 825 KB a 855 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #825
+LOG:Recibio de 826 KB a 856 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #826
+LOG:Recibio de 827 KB a 857 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #827
+LOG:Recibio de 828 KB a 858 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #828
+LOG:Recibio de 829 KB a 859 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #829
+LOG:Recibio de 830 KB a 860 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #830
+LOG:Recibio de 831 KB a 861 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #831
+LOG:Recibio de 832 KB a 862 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #832
+LOG:Recibio de 833 KB a 863 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #833
+LOG:Recibio de 834 KB a 864 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #834
+LOG:Recibio de 835 KB a 865 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #835
+LOG:Recibio de 836 KB a 866 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #836
+LOG:Recibio de 837 KB a 867 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #837
+LOG:Recibio de 838 KB a 868 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #838
+LOG:Recibio de 839 KB a 869 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #839
+LOG:Recibio de 840 KB a 870 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #840
+LOG:Recibio de 841 KB a 871 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #841
+LOG:Recibio de 842 KB a 872 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #842
+LOG:Recibio de 843 KB a 873 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #843
+LOG:Recibio de 844 KB a 874 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #844
+LOG:Recibio de 845 KB a 875 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #845
+LOG:Recibio de 846 KB a 876 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #846
+LOG:Recibio de 847 KB a 877 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #847
+LOG:Recibio de 848 KB a 878 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #848
+LOG:Recibio de 849 KB a 879 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #849
+LOG:Recibio de 850 KB a 880 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #850
+LOG:Recibio de 851 KB a 881 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #851
+LOG:Recibio de 852 KB a 882 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #852
+LOG:Recibio de 853 KB a 883 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #853
+LOG:Recibio de 854 KB a 884 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #854
+LOG:Recibio de 855 KB a 885 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #855
+LOG:Recibio de 856 KB a 886 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #856
+LOG:Recibio de 857 KB a 887 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #857
+LOG:Recibio de 858 KB a 888 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #858
+LOG:Recibio de 859 KB a 889 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #859
+LOG:Recibio de 860 KB a 890 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #860
+LOG:Recibio de 861 KB a 891 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #861
+LOG:Recibio de 862 KB a 892 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #862
+LOG:Recibio de 863 KB a 893 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #863
+LOG:Recibio de 864 KB a 894 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #864
+LOG:Recibio de 865 KB a 895 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #865
+LOG:Recibio de 866 KB a 896 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #866
+LOG:Recibio de 867 KB a 897 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #867
+LOG:Recibio de 868 KB a 898 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #868
+LOG:Recibio de 869 KB a 899 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #869
+LOG:Recibio de 870 KB a 900 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #870
+LOG:Recibio de 871 KB a 901 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #871
+LOG:Recibio de 872 KB a 902 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #872
+LOG:Recibio de 873 KB a 903 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #873
+LOG:Recibio de 874 KB a 904 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #874
+LOG:Recibio de 875 KB a 905 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #875
+LOG:Recibio de 876 KB a 906 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #876
+LOG:Recibio de 877 KB a 907 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #877
+LOG:Recibio de 878 KB a 908 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #878
+LOG:Recibio de 879 KB a 909 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #879
+LOG:Recibio de 880 KB a 910 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #880
+LOG:Recibio de 881 KB a 911 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #881
+LOG:Recibio de 882 KB a 912 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #882
+LOG:Recibio de 883 KB a 913 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #883
+LOG:Recibio de 884 KB a 914 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #884
+LOG:Recibio de 885 KB a 915 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #885
+LOG:Recibio de 886 KB a 916 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #886
+LOG:Recibio de 887 KB a 917 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #887
+LOG:Recibio de 888 KB a 918 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #888
+LOG:Recibio de 889 KB a 919 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #889
+LOG:Recibio de 890 KB a 920 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #890
+LOG:Recibio de 891 KB a 921 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #891
+LOG:Recibio de 892 KB a 922 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #892
+LOG:Recibio de 893 KB a 923 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #893
+LOG:Recibio de 894 KB a 924 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #894
+LOG:Recibio de 895 KB a 925 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #895
+LOG:Recibio de 896 KB a 926 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #896
+LOG:Recibio de 897 KB a 927 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #897
+LOG:Recibio de 898 KB a 928 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #898
+LOG:Recibio de 899 KB a 929 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #899
+LOG:Recibio de 900 KB a 930 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #900
+LOG:Recibio de 901 KB a 931 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #901
+LOG:Recibio de 902 KB a 932 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #902
+LOG:Recibio de 903 KB a 933 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #903
+LOG:Recibio de 904 KB a 934 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #904
+LOG:Recibio de 905 KB a 935 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #905
+LOG:Recibio de 906 KB a 936 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #906
+LOG:Recibio de 907 KB a 937 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #907
+LOG:Recibio de 908 KB a 938 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #908
+LOG:Recibio de 909 KB a 939 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #909
+LOG:Recibio de 910 KB a 940 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #910
+LOG:Recibio de 911 KB a 941 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #911
+LOG:Recibio de 912 KB a 942 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #912
+LOG:Recibio de 913 KB a 943 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #913
+LOG:Recibio de 914 KB a 944 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #914
+LOG:Recibio de 915 KB a 945 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #915
+LOG:Recibio de 916 KB a 946 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #916
+LOG:Recibio de 917 KB a 947 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #917
+LOG:Recibio de 918 KB a 948 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #918
+LOG:Recibio de 919 KB a 949 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #919
+LOG:Recibio de 920 KB a 950 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #920
+LOG:Recibio de 921 KB a 951 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #921
+LOG:Recibio de 922 KB a 952 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #922
+LOG:Recibio de 923 KB a 953 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #923
+LOG:Recibio de 924 KB a 954 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #924
+LOG:Recibio de 925 KB a 955 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #925
+LOG:Recibio de 926 KB a 956 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #926
+LOG:Recibio de 927 KB a 957 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #927
+LOG:Recibio de 928 KB a 958 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #928
+LOG:Recibio de 929 KB a 959 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #929
+LOG:Recibio de 930 KB a 960 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #930
+LOG:Recibio de 931 KB a 961 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #931
+LOG:Recibio de 932 KB a 962 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #932
+LOG:Recibio de 933 KB a 963 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #933
+LOG:Recibio de 934 KB a 964 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #934
+LOG:Recibio de 935 KB a 965 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #935
+LOG:Recibio de 936 KB a 966 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #936
+LOG:Recibio de 937 KB a 967 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #937
+LOG:Recibio de 938 KB a 968 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #938
+LOG:Recibio de 939 KB a 969 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #939
+LOG:Recibio de 940 KB a 970 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #940
+LOG:Recibio de 941 KB a 971 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #941
+LOG:Recibio de 942 KB a 972 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #942
+LOG:Recibio de 943 KB a 973 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #943
+LOG:Recibio de 944 KB a 974 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #944
+LOG:Recibio de 945 KB a 975 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #945
+LOG:Recibio de 946 KB a 976 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #946
+LOG:Recibio de 947 KB a 977 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #947
+LOG:Recibio de 948 KB a 978 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #948
+LOG:Recibio de 949 KB a 979 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #949
+LOG:Recibio de 950 KB a 980 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #950
+LOG:Recibio de 951 KB a 981 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #951
+LOG:Recibio de 952 KB a 982 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #952
+LOG:Recibio de 953 KB a 983 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #953
+LOG:Recibio de 954 KB a 984 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #954
+LOG:Recibio de 955 KB a 985 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #955
+LOG:Recibio de 956 KB a 986 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #956
+LOG:Recibio de 957 KB a 987 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #957
+LOG:Recibio de 958 KB a 988 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #958
+LOG:Recibio de 959 KB a 989 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #959
+LOG:Recibio de 960 KB a 990 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #960
+LOG:Recibio de 961 KB a 991 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #961
+LOG:Recibio de 962 KB a 992 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #962
+LOG:Recibio de 963 KB a 993 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #963
+LOG:Recibio de 964 KB a 994 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #964
+LOG:Recibio de 965 KB a 995 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #965
+LOG:Recibio de 966 KB a 996 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #966
+LOG:Recibio de 967 KB a 997 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #967
+LOG:Recibio de 968 KB a 998 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #968
+LOG:Recibio de 969 KB a 999 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #969
+LOG:Recibio de 970 KB a 1000 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #970
+LOG:Recibio de 971 KB a 1001 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #971
+LOG:Recibio de 972 KB a 1002 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #972
+LOG:Recibio de 973 KB a 1003 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #973
+LOG:Recibio de 974 KB a 1004 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #974
+LOG:Recibio de 975 KB a 1005 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #975
+LOG:Recibio de 976 KB a 1006 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #976
+LOG:Recibio de 977 KB a 1007 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #977
+LOG:Recibio de 978 KB a 1008 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #978
+LOG:Recibio de 979 KB a 1009 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #979
+LOG:Recibio de 980 KB a 1010 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #980
+LOG:Recibio de 981 KB a 1011 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #981
+LOG:Recibio de 982 KB a 1012 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #982
+LOG:Recibio de 983 KB a 1013 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #983
+LOG:Recibio de 984 KB a 1014 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #984
+LOG:Recibio de 985 KB a 1015 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #985
+LOG:Recibio de 986 KB a 1016 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #986
+LOG:Recibio de 987 KB a 1017 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #987
+LOG:Recibio de 988 KB a 1018 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #988
+LOG:Recibio de 989 KB a 1019 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #989
+LOG:Recibio de 990 KB a 1020 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #990
+LOG:Recibio de 991 KB a 1021 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #991
+LOG:Recibio de 992 KB a 1022 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #992
+LOG:Recibio de 993 KB a 1023 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #993
+LOG:Recibio de 994 KB a 1024 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #994
+LOG:Recibio de 995 KB a 1025 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #995
+LOG:Recibio de 996 KB a 1026 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #996
+LOG:Recibio de 997 KB a 1027 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #997
+LOG:Recibio de 998 KB a 1028 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #998
+LOG:Recibio de 999 KB a 1029 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #999
+LOG:Recibio de 1000 KB a 1030 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1000
+LOG:Recibio de 1001 KB a 1031 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1001
+LOG:Recibio de 1002 KB a 1032 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1002
+LOG:Recibio de 1003 KB a 1033 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1003
+LOG:Recibio de 1004 KB a 1034 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1004
+LOG:Recibio de 1005 KB a 1035 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1005
+LOG:Recibio de 1006 KB a 1036 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1006
+LOG:Recibio de 1007 KB a 1037 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1007
+LOG:Recibio de 1008 KB a 1038 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1008
+LOG:Recibio de 1009 KB a 1039 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1009
+LOG:Recibio de 1010 KB a 1040 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1010
+LOG:Recibio de 1011 KB a 1041 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1011
+LOG:Recibio de 1012 KB a 1042 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1012
+LOG:Recibio de 1013 KB a 1043 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1013
+LOG:Recibio de 1014 KB a 1044 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1014
+LOG:Recibio de 1015 KB a 1045 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1015
+LOG:Recibio de 1016 KB a 1046 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1016
+LOG:Recibio de 1017 KB a 1047 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1017
+LOG:Recibio de 1018 KB a 1048 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1018
+LOG:Recibio de 1019 KB a 1049 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1019
+LOG:Recibio de 1020 KB a 1050 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1020
+LOG:Recibio de 1021 KB a 1051 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1021
+LOG:Recibio de 1022 KB a 1052 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1022
+LOG:Recibio de 1023 KB a 1053 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1023
+LOG:Recibio de 1024 KB a 1054 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1024
+LOG:Recibio de 1025 KB a 1055 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1025
+LOG:Recibio de 1026 KB a 1056 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1026
+LOG:Recibio de 1027 KB a 1057 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1027
+LOG:Recibio de 1028 KB a 1058 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1028
+LOG:Recibio de 1029 KB a 1059 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1029
+LOG:Recibio de 1030 KB a 1060 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1030
+LOG:Recibio de 1031 KB a 1061 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1031
+LOG:Recibio de 1032 KB a 1062 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1032
+LOG:Recibio de 1033 KB a 1063 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1033
+LOG:Recibio de 1034 KB a 1064 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1034
+LOG:Recibio de 1035 KB a 1065 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1035
+LOG:Recibio de 1036 KB a 1066 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1036
+LOG:Recibio de 1037 KB a 1067 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1037
+LOG:Recibio de 1038 KB a 1068 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1038
+LOG:Recibio de 1039 KB a 1069 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1039
+LOG:Recibio de 1040 KB a 1070 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1040
+LOG:Recibio de 1041 KB a 1071 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1041
+LOG:Recibio de 1042 KB a 1072 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1042
+LOG:Recibio de 1043 KB a 1073 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1043
+LOG:Recibio de 1044 KB a 1074 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1044
+LOG:Recibio de 1045 KB a 1075 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1045
+LOG:Recibio de 1046 KB a 1076 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1046
+LOG:Recibio de 1047 KB a 1077 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1047
+LOG:Recibio de 1048 KB a 1078 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1048
+LOG:Recibio de 1049 KB a 1079 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1049
+LOG:Recibio de 1050 KB a 1080 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1050
+LOG:Recibio de 1051 KB a 1081 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1051
+LOG:Recibio de 1052 KB a 1082 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1052
+LOG:Recibio de 1053 KB a 1083 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1053
+LOG:Recibio de 1054 KB a 1084 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1054
+LOG:Recibio de 1055 KB a 1085 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1055
+LOG:Recibio de 1056 KB a 1086 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1056
+LOG:Recibio de 1057 KB a 1087 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1057
+LOG:Recibio de 1058 KB a 1088 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1058
+LOG:Recibio de 1059 KB a 1089 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1059
+LOG:Recibio de 1060 KB a 1090 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1060
+LOG:Recibio de 1061 KB a 1091 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1061
+LOG:Recibio de 1062 KB a 1092 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1062
+LOG:Recibio de 1063 KB a 1093 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1063
+LOG:Recibio de 1064 KB a 1094 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1064
+LOG:Recibio de 1065 KB a 1095 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1065
+LOG:Recibio de 1066 KB a 1096 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1066
+LOG:Recibio de 1067 KB a 1097 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1067
+LOG:Recibio de 1068 KB a 1098 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1068
+LOG:Recibio de 1069 KB a 1099 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1069
+LOG:Recibio de 1070 KB a 1100 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1070
+LOG:Recibio de 1071 KB a 1101 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1071
+LOG:Recibio de 1072 KB a 1102 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1072
+LOG:Recibio de 1073 KB a 1103 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1073
+LOG:Recibio de 1074 KB a 1104 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1074
+LOG:Recibio de 1075 KB a 1105 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1075
+LOG:Recibio de 1076 KB a 1106 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1076
+LOG:Recibio de 1077 KB a 1107 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1077
+LOG:Recibio de 1078 KB a 1108 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1078
+LOG:Recibio de 1079 KB a 1109 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1079
+LOG:Recibio de 1080 KB a 1110 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1080
+LOG:Recibio de 1081 KB a 1111 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1081
+LOG:Recibio de 1082 KB a 1112 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1082
+LOG:Recibio de 1083 KB a 1113 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1083
+LOG:Recibio de 1084 KB a 1114 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1084
+LOG:Recibio de 1085 KB a 1115 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1085
+LOG:Recibio de 1086 KB a 1116 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1086
+LOG:Recibio de 1087 KB a 1117 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1087
+LOG:Recibio de 1088 KB a 1118 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1088
+LOG:Recibio de 1089 KB a 1119 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1089
+LOG:Recibio de 1090 KB a 1120 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1090
+LOG:Recibio de 1091 KB a 1121 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1091
+LOG:Recibio de 1092 KB a 1122 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1092
+LOG:Recibio de 1093 KB a 1123 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1093
+LOG:Recibio de 1094 KB a 1124 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1094
+LOG:Recibio de 1095 KB a 1125 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1095
+LOG:Recibio de 1096 KB a 1126 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1096
+LOG:Recibio de 1097 KB a 1127 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1097
+LOG:Recibio de 1098 KB a 1128 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1098
+LOG:Recibio de 1099 KB a 1129 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1099
+LOG:Recibio de 1100 KB a 1130 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1100
+LOG:Recibio de 1101 KB a 1131 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1101
+LOG:Recibio de 1102 KB a 1132 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1102
+LOG:Recibio de 1103 KB a 1133 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1103
+LOG:Recibio de 1104 KB a 1134 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1104
+LOG:Recibio de 1105 KB a 1135 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1105
+LOG:Recibio de 1106 KB a 1136 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1106
+LOG:Recibio de 1107 KB a 1137 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1107
+LOG:Recibio de 1108 KB a 1138 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1108
+LOG:Recibio de 1109 KB a 1139 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1109
+LOG:Recibio de 1110 KB a 1140 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1110
+LOG:Recibio de 1111 KB a 1141 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1111
+LOG:Recibio de 1112 KB a 1142 KB
+LOG:Enviando ACK a ('192.168.56.1', 60920) #1112

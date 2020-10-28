@@ -3,6 +3,7 @@ import struct
 import sys
 import hashlib
 from datetime import datetime
+import time
 
 def getsha256file(archivo):
     try:
@@ -44,6 +45,9 @@ try:
                 while info:
                     #print("Enviado de", i, "KB a", i + 30, "KB")
                     logFile.write("\nLOG:Enviado de " + str(i) +" KB a "+ str(i + 30) + " KB")
+                    if i ==0:
+                        start = str(time.time()).encode("ascii")
+                        sock.sendto(start, multicast_group)
                     i += 30
                     sock.sendto(info, multicast_group)
                     info = fileToSend.read(1024*30)
@@ -62,6 +66,9 @@ try:
                 while info:
                     #print("Enviado de", i, "KB a", i + 30, "KB")
                     logFile.write("\nLOG:Enviado de " + str(i) +" KB a "+ str(i + 30) + " KB")
+                    if i ==0:
+                        start = time.time()
+                        sock.sendto(start, multicast_group)
                     i += 30
                     sock.sendto(info, multicast_group)
                     info = fileToSend.read(1024*30)

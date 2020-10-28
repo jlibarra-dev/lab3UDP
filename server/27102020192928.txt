@@ -1,0 +1,2266 @@
+27/10/2020 19:29:28
+LOG:Archivo:b'0'
+LOG:Enviado de 0 KB a 30 KB
+LOG:Recibido b'0' de ('192.168.56.1', 10000)
+LOG:Enviado de 30 KB a 60 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 60 KB a 90 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 90 KB a 120 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 120 KB a 150 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 150 KB a 180 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 180 KB a 210 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 210 KB a 240 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 240 KB a 270 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 270 KB a 300 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 300 KB a 330 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 330 KB a 360 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 360 KB a 390 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 390 KB a 420 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 420 KB a 450 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 450 KB a 480 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 480 KB a 510 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 510 KB a 540 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 540 KB a 570 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 570 KB a 600 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 600 KB a 630 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 630 KB a 660 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 660 KB a 690 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 690 KB a 720 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 720 KB a 750 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 750 KB a 780 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 780 KB a 810 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 810 KB a 840 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 840 KB a 870 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 870 KB a 900 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 900 KB a 930 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 930 KB a 960 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 960 KB a 990 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 990 KB a 1020 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1020 KB a 1050 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1050 KB a 1080 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1080 KB a 1110 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1110 KB a 1140 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1140 KB a 1170 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1170 KB a 1200 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1200 KB a 1230 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1230 KB a 1260 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1260 KB a 1290 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1290 KB a 1320 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1320 KB a 1350 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1350 KB a 1380 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1380 KB a 1410 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1410 KB a 1440 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1440 KB a 1470 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1470 KB a 1500 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1500 KB a 1530 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1530 KB a 1560 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1560 KB a 1590 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1590 KB a 1620 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1620 KB a 1650 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1650 KB a 1680 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1680 KB a 1710 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1710 KB a 1740 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1740 KB a 1770 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1770 KB a 1800 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1800 KB a 1830 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1830 KB a 1860 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1860 KB a 1890 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1890 KB a 1920 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1920 KB a 1950 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1950 KB a 1980 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 1980 KB a 2010 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2010 KB a 2040 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2040 KB a 2070 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2070 KB a 2100 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2100 KB a 2130 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2130 KB a 2160 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2160 KB a 2190 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2190 KB a 2220 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2220 KB a 2250 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2250 KB a 2280 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2280 KB a 2310 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2310 KB a 2340 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2340 KB a 2370 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2370 KB a 2400 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2400 KB a 2430 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2430 KB a 2460 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2460 KB a 2490 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2490 KB a 2520 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2520 KB a 2550 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2550 KB a 2580 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2580 KB a 2610 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2610 KB a 2640 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2640 KB a 2670 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2670 KB a 2700 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2700 KB a 2730 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2730 KB a 2760 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2760 KB a 2790 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2790 KB a 2820 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2820 KB a 2850 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2850 KB a 2880 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2880 KB a 2910 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2910 KB a 2940 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2940 KB a 2970 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 2970 KB a 3000 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3000 KB a 3030 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3030 KB a 3060 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3060 KB a 3090 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3090 KB a 3120 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3120 KB a 3150 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3150 KB a 3180 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3180 KB a 3210 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3210 KB a 3240 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3240 KB a 3270 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3270 KB a 3300 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3300 KB a 3330 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3330 KB a 3360 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3360 KB a 3390 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3390 KB a 3420 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3420 KB a 3450 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3450 KB a 3480 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3480 KB a 3510 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3510 KB a 3540 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3540 KB a 3570 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3570 KB a 3600 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3600 KB a 3630 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3630 KB a 3660 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3660 KB a 3690 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3690 KB a 3720 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3720 KB a 3750 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3750 KB a 3780 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3780 KB a 3810 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3810 KB a 3840 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3840 KB a 3870 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3870 KB a 3900 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3900 KB a 3930 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3930 KB a 3960 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3960 KB a 3990 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 3990 KB a 4020 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4020 KB a 4050 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4050 KB a 4080 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4080 KB a 4110 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4110 KB a 4140 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4140 KB a 4170 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4170 KB a 4200 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4200 KB a 4230 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4230 KB a 4260 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4260 KB a 4290 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4290 KB a 4320 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4320 KB a 4350 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4350 KB a 4380 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4380 KB a 4410 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4410 KB a 4440 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4440 KB a 4470 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4470 KB a 4500 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4500 KB a 4530 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4530 KB a 4560 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4560 KB a 4590 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4590 KB a 4620 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4620 KB a 4650 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4650 KB a 4680 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4680 KB a 4710 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4710 KB a 4740 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4740 KB a 4770 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4770 KB a 4800 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4800 KB a 4830 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4830 KB a 4860 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4860 KB a 4890 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4890 KB a 4920 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4920 KB a 4950 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4950 KB a 4980 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 4980 KB a 5010 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5010 KB a 5040 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5040 KB a 5070 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5070 KB a 5100 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5100 KB a 5130 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5130 KB a 5160 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5160 KB a 5190 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5190 KB a 5220 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5220 KB a 5250 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5250 KB a 5280 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5280 KB a 5310 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5310 KB a 5340 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5340 KB a 5370 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5370 KB a 5400 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5400 KB a 5430 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5430 KB a 5460 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5460 KB a 5490 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5490 KB a 5520 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5520 KB a 5550 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5550 KB a 5580 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5580 KB a 5610 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5610 KB a 5640 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5640 KB a 5670 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5670 KB a 5700 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5700 KB a 5730 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5730 KB a 5760 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5760 KB a 5790 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5790 KB a 5820 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5820 KB a 5850 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5850 KB a 5880 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5880 KB a 5910 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5910 KB a 5940 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5940 KB a 5970 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 5970 KB a 6000 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6000 KB a 6030 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6030 KB a 6060 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6060 KB a 6090 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6090 KB a 6120 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6120 KB a 6150 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6150 KB a 6180 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6180 KB a 6210 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6210 KB a 6240 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6240 KB a 6270 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6270 KB a 6300 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6300 KB a 6330 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6330 KB a 6360 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6360 KB a 6390 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6390 KB a 6420 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6420 KB a 6450 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6450 KB a 6480 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6480 KB a 6510 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6510 KB a 6540 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6540 KB a 6570 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6570 KB a 6600 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6600 KB a 6630 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6630 KB a 6660 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6660 KB a 6690 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6690 KB a 6720 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6720 KB a 6750 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6750 KB a 6780 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6780 KB a 6810 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6810 KB a 6840 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6840 KB a 6870 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6870 KB a 6900 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6900 KB a 6930 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6930 KB a 6960 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6960 KB a 6990 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 6990 KB a 7020 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7020 KB a 7050 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7050 KB a 7080 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7080 KB a 7110 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7110 KB a 7140 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7140 KB a 7170 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7170 KB a 7200 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7200 KB a 7230 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7230 KB a 7260 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7260 KB a 7290 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7290 KB a 7320 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7320 KB a 7350 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7350 KB a 7380 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7380 KB a 7410 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7410 KB a 7440 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7440 KB a 7470 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7470 KB a 7500 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7500 KB a 7530 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7530 KB a 7560 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7560 KB a 7590 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7590 KB a 7620 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7620 KB a 7650 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7650 KB a 7680 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7680 KB a 7710 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7710 KB a 7740 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7740 KB a 7770 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7770 KB a 7800 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7800 KB a 7830 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7830 KB a 7860 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7860 KB a 7890 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7890 KB a 7920 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7920 KB a 7950 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7950 KB a 7980 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 7980 KB a 8010 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8010 KB a 8040 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8040 KB a 8070 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8070 KB a 8100 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8100 KB a 8130 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8130 KB a 8160 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8160 KB a 8190 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8190 KB a 8220 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8220 KB a 8250 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8250 KB a 8280 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8280 KB a 8310 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8310 KB a 8340 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8340 KB a 8370 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8370 KB a 8400 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8400 KB a 8430 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8430 KB a 8460 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8460 KB a 8490 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8490 KB a 8520 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8520 KB a 8550 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8550 KB a 8580 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8580 KB a 8610 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8610 KB a 8640 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8640 KB a 8670 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8670 KB a 8700 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8700 KB a 8730 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8730 KB a 8760 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8760 KB a 8790 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8790 KB a 8820 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8820 KB a 8850 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8850 KB a 8880 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8880 KB a 8910 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8910 KB a 8940 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8940 KB a 8970 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 8970 KB a 9000 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9000 KB a 9030 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9030 KB a 9060 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9060 KB a 9090 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9090 KB a 9120 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9120 KB a 9150 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9150 KB a 9180 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9180 KB a 9210 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9210 KB a 9240 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9240 KB a 9270 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9270 KB a 9300 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9300 KB a 9330 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9330 KB a 9360 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9360 KB a 9390 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9390 KB a 9420 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9420 KB a 9450 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9450 KB a 9480 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9480 KB a 9510 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9510 KB a 9540 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9540 KB a 9570 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9570 KB a 9600 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9600 KB a 9630 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9630 KB a 9660 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9660 KB a 9690 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9690 KB a 9720 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9720 KB a 9750 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9750 KB a 9780 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9780 KB a 9810 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9810 KB a 9840 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9840 KB a 9870 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9870 KB a 9900 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9900 KB a 9930 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9930 KB a 9960 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9960 KB a 9990 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 9990 KB a 10020 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10020 KB a 10050 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10050 KB a 10080 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10080 KB a 10110 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10110 KB a 10140 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10140 KB a 10170 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10170 KB a 10200 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10200 KB a 10230 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10230 KB a 10260 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10260 KB a 10290 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10290 KB a 10320 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10320 KB a 10350 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10350 KB a 10380 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10380 KB a 10410 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10410 KB a 10440 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10440 KB a 10470 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10470 KB a 10500 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10500 KB a 10530 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10530 KB a 10560 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10560 KB a 10590 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10590 KB a 10620 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10620 KB a 10650 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10650 KB a 10680 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10680 KB a 10710 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10710 KB a 10740 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10740 KB a 10770 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10770 KB a 10800 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10800 KB a 10830 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10830 KB a 10860 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10860 KB a 10890 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10890 KB a 10920 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10920 KB a 10950 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10950 KB a 10980 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 10980 KB a 11010 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11010 KB a 11040 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11040 KB a 11070 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11070 KB a 11100 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11100 KB a 11130 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11130 KB a 11160 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11160 KB a 11190 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11190 KB a 11220 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11220 KB a 11250 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11250 KB a 11280 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11280 KB a 11310 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11310 KB a 11340 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11340 KB a 11370 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11370 KB a 11400 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11400 KB a 11430 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11430 KB a 11460 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11460 KB a 11490 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11490 KB a 11520 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11520 KB a 11550 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11550 KB a 11580 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11580 KB a 11610 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11610 KB a 11640 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11640 KB a 11670 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11670 KB a 11700 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11700 KB a 11730 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11730 KB a 11760 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11760 KB a 11790 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11790 KB a 11820 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11820 KB a 11850 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11850 KB a 11880 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11880 KB a 11910 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11910 KB a 11940 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11940 KB a 11970 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 11970 KB a 12000 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12000 KB a 12030 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12030 KB a 12060 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12060 KB a 12090 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12090 KB a 12120 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12120 KB a 12150 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12150 KB a 12180 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12180 KB a 12210 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12210 KB a 12240 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12240 KB a 12270 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12270 KB a 12300 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12300 KB a 12330 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12330 KB a 12360 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12360 KB a 12390 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12390 KB a 12420 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12420 KB a 12450 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12450 KB a 12480 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12480 KB a 12510 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12510 KB a 12540 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12540 KB a 12570 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12570 KB a 12600 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12600 KB a 12630 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12630 KB a 12660 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12660 KB a 12690 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12690 KB a 12720 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12720 KB a 12750 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12750 KB a 12780 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12780 KB a 12810 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12810 KB a 12840 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12840 KB a 12870 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12870 KB a 12900 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12900 KB a 12930 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12930 KB a 12960 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12960 KB a 12990 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 12990 KB a 13020 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13020 KB a 13050 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13050 KB a 13080 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13080 KB a 13110 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13110 KB a 13140 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13140 KB a 13170 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13170 KB a 13200 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13200 KB a 13230 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13230 KB a 13260 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13260 KB a 13290 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13290 KB a 13320 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13320 KB a 13350 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13350 KB a 13380 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13380 KB a 13410 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13410 KB a 13440 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13440 KB a 13470 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13470 KB a 13500 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13500 KB a 13530 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13530 KB a 13560 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13560 KB a 13590 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13590 KB a 13620 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13620 KB a 13650 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13650 KB a 13680 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13680 KB a 13710 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13710 KB a 13740 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13740 KB a 13770 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13770 KB a 13800 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13800 KB a 13830 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13830 KB a 13860 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13860 KB a 13890 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13890 KB a 13920 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13920 KB a 13950 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13950 KB a 13980 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 13980 KB a 14010 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14010 KB a 14040 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14040 KB a 14070 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14070 KB a 14100 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14100 KB a 14130 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14130 KB a 14160 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14160 KB a 14190 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14190 KB a 14220 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14220 KB a 14250 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14250 KB a 14280 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14280 KB a 14310 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14310 KB a 14340 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14340 KB a 14370 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14370 KB a 14400 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14400 KB a 14430 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14430 KB a 14460 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14460 KB a 14490 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14490 KB a 14520 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14520 KB a 14550 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14550 KB a 14580 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14580 KB a 14610 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14610 KB a 14640 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14640 KB a 14670 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14670 KB a 14700 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14700 KB a 14730 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14730 KB a 14760 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14760 KB a 14790 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14790 KB a 14820 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14820 KB a 14850 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14850 KB a 14880 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14880 KB a 14910 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14910 KB a 14940 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14940 KB a 14970 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 14970 KB a 15000 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15000 KB a 15030 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15030 KB a 15060 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15060 KB a 15090 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15090 KB a 15120 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15120 KB a 15150 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15150 KB a 15180 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15180 KB a 15210 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15210 KB a 15240 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15240 KB a 15270 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15270 KB a 15300 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15300 KB a 15330 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15330 KB a 15360 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15360 KB a 15390 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15390 KB a 15420 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15420 KB a 15450 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15450 KB a 15480 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15480 KB a 15510 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15510 KB a 15540 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15540 KB a 15570 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15570 KB a 15600 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15600 KB a 15630 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15630 KB a 15660 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15660 KB a 15690 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15690 KB a 15720 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15720 KB a 15750 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15750 KB a 15780 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15780 KB a 15810 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15810 KB a 15840 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15840 KB a 15870 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15870 KB a 15900 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15900 KB a 15930 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15930 KB a 15960 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15960 KB a 15990 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 15990 KB a 16020 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16020 KB a 16050 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16050 KB a 16080 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16080 KB a 16110 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16110 KB a 16140 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16140 KB a 16170 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16170 KB a 16200 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16200 KB a 16230 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16230 KB a 16260 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16260 KB a 16290 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16290 KB a 16320 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16320 KB a 16350 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16350 KB a 16380 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16380 KB a 16410 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16410 KB a 16440 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16440 KB a 16470 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16470 KB a 16500 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16500 KB a 16530 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16530 KB a 16560 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16560 KB a 16590 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16590 KB a 16620 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16620 KB a 16650 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16650 KB a 16680 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16680 KB a 16710 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16710 KB a 16740 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16740 KB a 16770 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16770 KB a 16800 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16800 KB a 16830 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16830 KB a 16860 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16860 KB a 16890 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16890 KB a 16920 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16920 KB a 16950 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16950 KB a 16980 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 16980 KB a 17010 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17010 KB a 17040 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17040 KB a 17070 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17070 KB a 17100 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17100 KB a 17130 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17130 KB a 17160 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17160 KB a 17190 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17190 KB a 17220 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17220 KB a 17250 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17250 KB a 17280 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17280 KB a 17310 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17310 KB a 17340 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17340 KB a 17370 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17370 KB a 17400 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17400 KB a 17430 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17430 KB a 17460 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17460 KB a 17490 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17490 KB a 17520 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17520 KB a 17550 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17550 KB a 17580 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17580 KB a 17610 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17610 KB a 17640 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17640 KB a 17670 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17670 KB a 17700 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17700 KB a 17730 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17730 KB a 17760 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17760 KB a 17790 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17790 KB a 17820 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17820 KB a 17850 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17850 KB a 17880 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17880 KB a 17910 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17910 KB a 17940 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17940 KB a 17970 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 17970 KB a 18000 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18000 KB a 18030 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18030 KB a 18060 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18060 KB a 18090 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18090 KB a 18120 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18120 KB a 18150 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18150 KB a 18180 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18180 KB a 18210 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18210 KB a 18240 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18240 KB a 18270 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18270 KB a 18300 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18300 KB a 18330 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18330 KB a 18360 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18360 KB a 18390 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18390 KB a 18420 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18420 KB a 18450 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18450 KB a 18480 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18480 KB a 18510 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18510 KB a 18540 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18540 KB a 18570 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18570 KB a 18600 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18600 KB a 18630 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18630 KB a 18660 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18660 KB a 18690 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18690 KB a 18720 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18720 KB a 18750 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18750 KB a 18780 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18780 KB a 18810 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18810 KB a 18840 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18840 KB a 18870 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18870 KB a 18900 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18900 KB a 18930 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18930 KB a 18960 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18960 KB a 18990 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 18990 KB a 19020 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19020 KB a 19050 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19050 KB a 19080 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19080 KB a 19110 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19110 KB a 19140 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19140 KB a 19170 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19170 KB a 19200 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19200 KB a 19230 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19230 KB a 19260 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19260 KB a 19290 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19290 KB a 19320 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19320 KB a 19350 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19350 KB a 19380 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19380 KB a 19410 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19410 KB a 19440 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19440 KB a 19470 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19470 KB a 19500 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19500 KB a 19530 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19530 KB a 19560 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19560 KB a 19590 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19590 KB a 19620 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19620 KB a 19650 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19650 KB a 19680 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19680 KB a 19710 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19710 KB a 19740 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19740 KB a 19770 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19770 KB a 19800 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19800 KB a 19830 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19830 KB a 19860 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19860 KB a 19890 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19890 KB a 19920 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19920 KB a 19950 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19950 KB a 19980 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 19980 KB a 20010 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20010 KB a 20040 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20040 KB a 20070 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20070 KB a 20100 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20100 KB a 20130 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20130 KB a 20160 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20160 KB a 20190 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20190 KB a 20220 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20220 KB a 20250 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20250 KB a 20280 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20280 KB a 20310 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20310 KB a 20340 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20340 KB a 20370 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20370 KB a 20400 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20400 KB a 20430 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20430 KB a 20460 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20460 KB a 20490 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20490 KB a 20520 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20520 KB a 20550 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20550 KB a 20580 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20580 KB a 20610 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20610 KB a 20640 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20640 KB a 20670 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20670 KB a 20700 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20700 KB a 20730 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20730 KB a 20760 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20760 KB a 20790 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20790 KB a 20820 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20820 KB a 20850 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20850 KB a 20880 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20880 KB a 20910 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20910 KB a 20940 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20940 KB a 20970 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 20970 KB a 21000 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21000 KB a 21030 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21030 KB a 21060 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21060 KB a 21090 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21090 KB a 21120 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21120 KB a 21150 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21150 KB a 21180 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21180 KB a 21210 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21210 KB a 21240 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21240 KB a 21270 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21270 KB a 21300 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21300 KB a 21330 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21330 KB a 21360 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21360 KB a 21390 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21390 KB a 21420 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21420 KB a 21450 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21450 KB a 21480 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21480 KB a 21510 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21510 KB a 21540 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21540 KB a 21570 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21570 KB a 21600 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21600 KB a 21630 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21630 KB a 21660 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21660 KB a 21690 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21690 KB a 21720 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21720 KB a 21750 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21750 KB a 21780 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21780 KB a 21810 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21810 KB a 21840 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21840 KB a 21870 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21870 KB a 21900 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21900 KB a 21930 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21930 KB a 21960 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21960 KB a 21990 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 21990 KB a 22020 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22020 KB a 22050 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22050 KB a 22080 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22080 KB a 22110 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22110 KB a 22140 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22140 KB a 22170 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22170 KB a 22200 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22200 KB a 22230 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22230 KB a 22260 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22260 KB a 22290 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22290 KB a 22320 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22320 KB a 22350 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22350 KB a 22380 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22380 KB a 22410 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22410 KB a 22440 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22440 KB a 22470 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22470 KB a 22500 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22500 KB a 22530 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22530 KB a 22560 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22560 KB a 22590 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22590 KB a 22620 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22620 KB a 22650 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22650 KB a 22680 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22680 KB a 22710 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22710 KB a 22740 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22740 KB a 22770 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22770 KB a 22800 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22800 KB a 22830 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22830 KB a 22860 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22860 KB a 22890 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22890 KB a 22920 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22920 KB a 22950 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22950 KB a 22980 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 22980 KB a 23010 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23010 KB a 23040 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23040 KB a 23070 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23070 KB a 23100 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23100 KB a 23130 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23130 KB a 23160 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23160 KB a 23190 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23190 KB a 23220 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23220 KB a 23250 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23250 KB a 23280 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23280 KB a 23310 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23310 KB a 23340 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23340 KB a 23370 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23370 KB a 23400 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23400 KB a 23430 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23430 KB a 23460 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23460 KB a 23490 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23490 KB a 23520 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23520 KB a 23550 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23550 KB a 23580 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23580 KB a 23610 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23610 KB a 23640 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23640 KB a 23670 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23670 KB a 23700 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23700 KB a 23730 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23730 KB a 23760 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23760 KB a 23790 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23790 KB a 23820 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23820 KB a 23850 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23850 KB a 23880 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23880 KB a 23910 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23910 KB a 23940 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23940 KB a 23970 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 23970 KB a 24000 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24000 KB a 24030 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24030 KB a 24060 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24060 KB a 24090 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24090 KB a 24120 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24120 KB a 24150 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24150 KB a 24180 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24180 KB a 24210 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24210 KB a 24240 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24240 KB a 24270 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24270 KB a 24300 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24300 KB a 24330 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24330 KB a 24360 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24360 KB a 24390 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24390 KB a 24420 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24420 KB a 24450 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24450 KB a 24480 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24480 KB a 24510 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24510 KB a 24540 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24540 KB a 24570 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24570 KB a 24600 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24600 KB a 24630 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24630 KB a 24660 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24660 KB a 24690 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24690 KB a 24720 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24720 KB a 24750 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24750 KB a 24780 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24780 KB a 24810 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24810 KB a 24840 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24840 KB a 24870 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24870 KB a 24900 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24900 KB a 24930 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24930 KB a 24960 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24960 KB a 24990 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 24990 KB a 25020 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25020 KB a 25050 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25050 KB a 25080 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25080 KB a 25110 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25110 KB a 25140 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25140 KB a 25170 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25170 KB a 25200 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25200 KB a 25230 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25230 KB a 25260 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25260 KB a 25290 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25290 KB a 25320 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25320 KB a 25350 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25350 KB a 25380 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25380 KB a 25410 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25410 KB a 25440 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25440 KB a 25470 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25470 KB a 25500 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25500 KB a 25530 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25530 KB a 25560 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25560 KB a 25590 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25590 KB a 25620 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25620 KB a 25650 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25650 KB a 25680 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25680 KB a 25710 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25710 KB a 25740 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25740 KB a 25770 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25770 KB a 25800 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25800 KB a 25830 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25830 KB a 25860 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25860 KB a 25890 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25890 KB a 25920 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25920 KB a 25950 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25950 KB a 25980 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 25980 KB a 26010 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26010 KB a 26040 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26040 KB a 26070 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26070 KB a 26100 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26100 KB a 26130 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26130 KB a 26160 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26160 KB a 26190 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26190 KB a 26220 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26220 KB a 26250 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26250 KB a 26280 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26280 KB a 26310 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26310 KB a 26340 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26340 KB a 26370 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26370 KB a 26400 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26400 KB a 26430 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26430 KB a 26460 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26460 KB a 26490 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26490 KB a 26520 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26520 KB a 26550 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26550 KB a 26580 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26580 KB a 26610 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26610 KB a 26640 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26640 KB a 26670 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26670 KB a 26700 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26700 KB a 26730 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26730 KB a 26760 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26760 KB a 26790 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26790 KB a 26820 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26820 KB a 26850 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26850 KB a 26880 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26880 KB a 26910 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26910 KB a 26940 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26940 KB a 26970 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 26970 KB a 27000 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27000 KB a 27030 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27030 KB a 27060 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27060 KB a 27090 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27090 KB a 27120 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27120 KB a 27150 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27150 KB a 27180 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27180 KB a 27210 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27210 KB a 27240 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27240 KB a 27270 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27270 KB a 27300 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27300 KB a 27330 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27330 KB a 27360 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27360 KB a 27390 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27390 KB a 27420 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27420 KB a 27450 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27450 KB a 27480 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27480 KB a 27510 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27510 KB a 27540 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27540 KB a 27570 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27570 KB a 27600 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27600 KB a 27630 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27630 KB a 27660 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27660 KB a 27690 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27690 KB a 27720 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27720 KB a 27750 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27750 KB a 27780 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27780 KB a 27810 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27810 KB a 27840 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27840 KB a 27870 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27870 KB a 27900 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27900 KB a 27930 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27930 KB a 27960 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27960 KB a 27990 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 27990 KB a 28020 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28020 KB a 28050 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28050 KB a 28080 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28080 KB a 28110 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28110 KB a 28140 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28140 KB a 28170 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28170 KB a 28200 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28200 KB a 28230 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28230 KB a 28260 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28260 KB a 28290 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28290 KB a 28320 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28320 KB a 28350 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28350 KB a 28380 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28380 KB a 28410 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28410 KB a 28440 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28440 KB a 28470 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28470 KB a 28500 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28500 KB a 28530 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28530 KB a 28560 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28560 KB a 28590 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28590 KB a 28620 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28620 KB a 28650 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28650 KB a 28680 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28680 KB a 28710 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28710 KB a 28740 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28740 KB a 28770 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28770 KB a 28800 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28800 KB a 28830 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28830 KB a 28860 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28860 KB a 28890 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28890 KB a 28920 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28920 KB a 28950 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28950 KB a 28980 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 28980 KB a 29010 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29010 KB a 29040 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29040 KB a 29070 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29070 KB a 29100 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29100 KB a 29130 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29130 KB a 29160 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29160 KB a 29190 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29190 KB a 29220 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29220 KB a 29250 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29250 KB a 29280 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29280 KB a 29310 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29310 KB a 29340 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29340 KB a 29370 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29370 KB a 29400 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29400 KB a 29430 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29430 KB a 29460 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29460 KB a 29490 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29490 KB a 29520 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29520 KB a 29550 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29550 KB a 29580 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29580 KB a 29610 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29610 KB a 29640 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29640 KB a 29670 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29670 KB a 29700 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29700 KB a 29730 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29730 KB a 29760 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29760 KB a 29790 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29790 KB a 29820 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29820 KB a 29850 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29850 KB a 29880 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29880 KB a 29910 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29910 KB a 29940 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29940 KB a 29970 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 29970 KB a 30000 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30000 KB a 30030 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30030 KB a 30060 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30060 KB a 30090 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30090 KB a 30120 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30120 KB a 30150 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30150 KB a 30180 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30180 KB a 30210 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30210 KB a 30240 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30240 KB a 30270 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30270 KB a 30300 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30300 KB a 30330 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30330 KB a 30360 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30360 KB a 30390 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30390 KB a 30420 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30420 KB a 30450 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30450 KB a 30480 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30480 KB a 30510 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30510 KB a 30540 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30540 KB a 30570 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30570 KB a 30600 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30600 KB a 30630 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30630 KB a 30660 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30660 KB a 30690 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30690 KB a 30720 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30720 KB a 30750 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30750 KB a 30780 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30780 KB a 30810 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30810 KB a 30840 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30840 KB a 30870 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30870 KB a 30900 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30900 KB a 30930 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30930 KB a 30960 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30960 KB a 30990 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 30990 KB a 31020 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31020 KB a 31050 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31050 KB a 31080 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31080 KB a 31110 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31110 KB a 31140 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31140 KB a 31170 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31170 KB a 31200 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31200 KB a 31230 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31230 KB a 31260 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31260 KB a 31290 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31290 KB a 31320 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31320 KB a 31350 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31350 KB a 31380 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31380 KB a 31410 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31410 KB a 31440 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31440 KB a 31470 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31470 KB a 31500 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31500 KB a 31530 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31530 KB a 31560 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31560 KB a 31590 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31590 KB a 31620 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31620 KB a 31650 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31650 KB a 31680 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31680 KB a 31710 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31710 KB a 31740 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31740 KB a 31770 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31770 KB a 31800 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31800 KB a 31830 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31830 KB a 31860 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31860 KB a 31890 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31890 KB a 31920 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31920 KB a 31950 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31950 KB a 31980 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 31980 KB a 32010 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32010 KB a 32040 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32040 KB a 32070 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32070 KB a 32100 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32100 KB a 32130 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32130 KB a 32160 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32160 KB a 32190 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32190 KB a 32220 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32220 KB a 32250 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32250 KB a 32280 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32280 KB a 32310 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32310 KB a 32340 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32340 KB a 32370 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32370 KB a 32400 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32400 KB a 32430 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32430 KB a 32460 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32460 KB a 32490 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32490 KB a 32520 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32520 KB a 32550 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32550 KB a 32580 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32580 KB a 32610 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32610 KB a 32640 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32640 KB a 32670 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32670 KB a 32700 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32700 KB a 32730 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32730 KB a 32760 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32760 KB a 32790 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32790 KB a 32820 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32820 KB a 32850 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32850 KB a 32880 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32880 KB a 32910 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32910 KB a 32940 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32940 KB a 32970 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 32970 KB a 33000 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33000 KB a 33030 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33030 KB a 33060 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33060 KB a 33090 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33090 KB a 33120 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33120 KB a 33150 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33150 KB a 33180 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33180 KB a 33210 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33210 KB a 33240 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33240 KB a 33270 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33270 KB a 33300 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33300 KB a 33330 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33330 KB a 33360 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33360 KB a 33390 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33390 KB a 33420 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33420 KB a 33450 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33450 KB a 33480 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33480 KB a 33510 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33510 KB a 33540 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33540 KB a 33570 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33570 KB a 33600 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33600 KB a 33630 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33630 KB a 33660 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33660 KB a 33690 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33690 KB a 33720 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33720 KB a 33750 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33750 KB a 33780 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33780 KB a 33810 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33810 KB a 33840 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33840 KB a 33870 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33870 KB a 33900 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Enviado de 33900 KB a 33930 KB
+LOG:Recibido b'ack' de ('192.168.56.1', 10000)
+LOG:Codigo Hash del servidor 3762faed8884442632d769ab95872ee69ff0dacd2a2008c77aa1211e972149b0
+LOG:Socket cerrado
